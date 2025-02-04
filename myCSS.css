@@ -5,6 +5,8 @@ body {
 }
 .homePage {
 	background: #0F0F11;
+}
+.container { 
 	width: 960px;
 	margin: 0 auto;
 }
